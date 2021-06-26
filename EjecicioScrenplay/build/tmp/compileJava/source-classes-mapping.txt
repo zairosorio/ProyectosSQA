@@ -1,0 +1,8 @@
+com/demoqa/automation/userinterfaces/FormHomePage.java
+ com.demoqa.automation.userinterfaces.FormHomePage
+com/demoqa/automation/task/OpenBrowserTask.java
+ com.demoqa.automation.task.OpenBrowserTask
+com/demoqa/automation/userinterfaces/PublicityClosePage.java
+ com.demoqa.automation.userinterfaces.PublicityClosePage
+com/demoqa/automation/task/ClosePublicityTask.java
+ com.demoqa.automation.task.ClosePublicityTask
